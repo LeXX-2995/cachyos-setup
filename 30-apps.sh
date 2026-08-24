@@ -23,6 +23,7 @@ aur_packages=(
     jamesdsp-pipewire-bin
     chatgpt-desktop-bin
     postman-bin
+    tabby-bin
     yandex-music
     yandex-disk
     yandex-disk-indicator
