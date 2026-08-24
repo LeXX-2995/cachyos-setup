@@ -11,10 +11,16 @@ fi
 
 pacman_packages=(
     telegram-desktop
+    onlyoffice-bin
+    vlc
+    mailspring
 )
 
 aur_packages=(
     google-chrome
+    zapzap-bin
+    rustdesk-bin
+    jamesdsp-pipewire-bin
     chatgpt-desktop-bin
     postman-bin
     yandex-music
